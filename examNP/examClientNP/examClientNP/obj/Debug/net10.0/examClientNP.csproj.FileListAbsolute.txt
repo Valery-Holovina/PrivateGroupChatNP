@@ -1,0 +1,14 @@
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/bin/Debug/net10.0/examClientNP
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/bin/Debug/net10.0/examClientNP.deps.json
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/bin/Debug/net10.0/examClientNP.runtimeconfig.json
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/bin/Debug/net10.0/examClientNP.dll
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/bin/Debug/net10.0/examClientNP.pdb
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.AssemblyInfoInputs.cache
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.AssemblyInfo.cs
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.csproj.CoreCompileInputs.cache
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.dll
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/refint/examClientNP.dll
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.pdb
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/examClientNP.genruntimeconfig.cache
+/Users/valery/Desktop/CSharp/examNP/examClientNP/examClientNP/obj/Debug/net10.0/ref/examClientNP.dll
